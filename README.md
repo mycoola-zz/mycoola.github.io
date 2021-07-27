@@ -1,8 +1,5 @@
-<p align="center">
-	<img src="preview.gif"/>
-</p>
 
-Source code of http://adriel.cafe
+Source code of https://mycoola.github.io/
 
 ## Acknowledgements
 * ['Stars' Background Animation](http://codepen.io/TheRealAlan/pen/gzqsy)
@@ -11,7 +8,6 @@ Source code of http://adriel.cafe
 ## License
 > The MIT License (MIT)
 > 
-> Copyright (c) 2015 Adriel Café
 > 
 > Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
